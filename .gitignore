@@ -1,0 +1,20 @@
+# Node
+node_modules/
+**/node_modules/
+**/.next/
+**/out/
+**/.vercel/
+**/.env*.local
+**/.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+**/venv/
+project_x_env/
+.env
+
+# IDE
+.vscode/
+.idea/
